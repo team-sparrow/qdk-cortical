@@ -1,8 +1,10 @@
-# cortical-layers
+# qdk-cortical
 Automatically detect the boundaries between cortical layers of MICrONS
 segmentation data.
 
-It is available through pip
+Fork specifically is designed to leverage QC hardware for massive acceleration. Build from source.
+
+Non-accelerated package available through pip
 
 `pip install cortical-layers`
 
